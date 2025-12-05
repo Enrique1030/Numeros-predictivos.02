@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Copy of DataMind AI - Generador de Análisis",
+  "description": "Una herramienta inteligente que genera código Python para ciencia de datos y realiza análisis preliminares de datos CSV utilizando Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
